@@ -50,7 +50,7 @@ IPIGuard 把任务执行构建为一张有向无环图 $G=(V,E)$。在该论文�
 
 以下是论文在推理时的任务执行流程，以租金例子为例。
 
-![image-20261030171538565](C:\Users\Root\AppData\Roaming\Typora\typora-user-images\image-20261030171538565.png)
+![image-20261030171538565](assets\ipiguard\image-20261030171538565.png)
 
 1. **第一步，收集规划输入。** 以租金为例，规划阶段拿到的可信信息有三类。
 
